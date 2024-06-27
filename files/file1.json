@@ -1,0 +1,26 @@
+[
+  {
+    "fullName": "Johannes Pantoffel Swan",
+    "id": 123,
+    "position": "Software Engineer",
+    "salary": 130000.0
+  },
+  {
+    "fullName": "Julie Patricia Swan",
+    "id": 124,
+    "position": "Wood Artist",
+    "salary": 110000.0
+  },
+  {
+    "fullName": "Christoffel Smit",
+    "id": 125,
+    "position": "Infantry Specialist",
+    "salary": 100000.0
+  },
+  {
+    "fullName": "Gerrie Varkie Swan",
+    "id": 126,
+    "position": "Fitter & Turner",
+    "salary": 90000.0
+  }
+]
