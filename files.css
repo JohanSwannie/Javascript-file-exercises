@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 60vw;
+  padding: 2rem;
+  border: 2px solid #000;
+  background-color: blue;
+  color: #fff;
+  font-size: 1.2rem;
+  margin: auto;
+}
